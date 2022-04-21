@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d5dd34f2a8dc1a862bfd7.jpg" alt=D3KRISH">
+  <img src="https://telegra.ph/file/595fedf27d4355c326cb2.jpg" alt=D3KRISH">
 </p>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
